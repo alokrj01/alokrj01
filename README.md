@@ -1,3 +1,6 @@
+https://github-readme-stats.vercel.app/api?username=alokrj01
+https://github-readme-streak-stats.herokuapp.com
+
 # <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=ALOK%20RANJAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
